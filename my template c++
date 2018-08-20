@@ -1,0 +1,12 @@
+// stc + lzc = segment tree with count + lazy. 
+// stmi + lzmi = segment tree with min + lazy
+// stma + lzma = segment tree with max + lazy
+// fwc + fws = fenwitch tree with count + sum
+
+// functions:
+// 	stc_up, stc_get, lzc_up
+// 	stmi_up, stmi_get, lzmi_up
+// 	stma_up, stma_get, lzma_up
+// 	fwc_up, fwc_get
+// 	fws_up, fws_get
+
